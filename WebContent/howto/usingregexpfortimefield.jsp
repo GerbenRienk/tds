@@ -45,13 +45,14 @@ non-profit academic edc" />
 			<h3>the regular expression</h3>
 			<p>We would like our time-field to accept input like 01:26 or 11:00 or 19:59 or 20:00 or 23:59 and to reject input like
 			88:99 or 4:6<br />
-			Let's first concentrate on the input until 20:00. The regular expression would be <b>[0-1]\d:[0-5]\d</b> 
-			meaning more or less: start with 0 or 1 ([0-1]), followed by a digit (\d), then the colon (:) followed by the minutes
-			as something in the range from 0 to 5 ([0-5]) followed by a digit (\d).
+			Let's first concentrate on the input until 20:00. The regular expression would be <b>[0-1][0-9]:[0-5][0-9]</b> 
+			meaning more or less: start with 0 or 1 ([0-1]), followed by a number from 0 to 9, then the colon (:) followed by the minutes
+			as something in the range from 0 to 5 ([0-5]) followed by yet another number from 0 to 9.
 			<br />
-			Then the time from 20:00 till 23:59. The regular expression would be quite similar: <b>2[0-3]:[0-5]\d</b> and that translates to: 
+			Then the time from 20:00 till 23:59. The regular expression would be quite similar: <b>2[0-3]:[0-5][0-9]</b> and that translates to: 
 			start with a 2 (2), followed by anything in the range from 0 to 3 ([0-3]), then the semicolon and the minutes, as described before.<br />
-			The last thing to do is combine these two with a pipe(|): <b>[0-1]\d:[0-5]\d|2[0-3]:[0-5]\d</b></p>
+			The last thing to do is combine these two with a pipe(|): <b>([0-1][0-9]:[0-5][0-9])|(2[0-3]:[0-5][0-9])</b> or nicer: 
+			<b>(([0-1][0-9])|(2[0-3])):[0-5][0-9]</b></p>
 			
 			<h3>testing the regular expression with regexpal</h3>
 			<p>Testing a regular expression in OpenClinica is not an easy task: you have to put the regexp in your XL-sheet and upload it. 
@@ -66,7 +67,7 @@ non-profit academic edc" />
 			<img src='/tds/img/ImagesHowTo/RegExPal.jpg' border='0' class='photo' /><br />
 			Fig. 1: regexpal testing
 			</p>
-			<p>Every bit of the text-string that matches the regular expression is highlighted in yellow or blue and you see 
+			<p>Every bit of the text-string that matches the regular expression is highlighted in blue and you see 
 			immediately that this expression is the right one for your job.</p>
 			
 			<h3>putting the regular expression in your XL-sheet</h3>
