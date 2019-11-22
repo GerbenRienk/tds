@@ -115,23 +115,16 @@ OpenClinica and some more advanced topics: </p>
 			
 			data-wdsl en status:initial data entry
 			
-			grid en autonumber
-			
 			setting available versions
 			
-			iets met RESTful URLs https://docs.openclinica.com/3.1/technical-documents/openclinica-restful-urls
 			iets met snel data van 1 item:
-			select ss.label, se.date_start, id.value from
-item_data id,
-item i,
-event_crf ec,
-study_event se,
-study_subject ss
+			select ss.label, se.date_start, id.value, ec.status_id from
+item_data id, item i, event_crf ec, study_event se, study_subject ss
 where id.item_id=i.item_id and
 id.event_crf_id=ec.event_crf_id and
 se.study_event_id=ec.study_event_id and
 se.study_subject_id=ss.study_subject_id
-and i.name='Descr';
+and i.oc_oid='I_IESCH_FUNCTION';
 
 kapotte index repareren:
 CREATE TABLE dupfinder_audit_user_login AS SELECT ctid AS tid, id FROM audit_user_login;

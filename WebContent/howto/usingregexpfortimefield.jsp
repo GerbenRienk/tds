@@ -10,6 +10,8 @@ non-profit academic edc" />
 <title>Trial Data Solutions: using a regular expression to create a time field for OpenClinica</title>
 <link rel="stylesheet" type="text/css" media="screen, projection" href="/tds/css/screen.css" />
 <script src="/tds/js/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="/tds/js/highlight.pack.js" type="text/javascript"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 <script type="text/javascript">
 	// Toggle advanced options
 	$(document).ready(function(){
@@ -45,7 +47,7 @@ non-profit academic edc" />
 			<h3>the regular expression</h3>
 			<p>We would like our time-field to accept input like 01:26 or 11:00 or 19:59 or 20:00 or 23:59 and to reject input like
 			88:99 or 4:6<br />
-			Let's first concentrate on the input until 20:00. The regular expression would be <b>[0-1][0-9]:[0-5][0-9]</b> 
+			Let's first concentrate on the input until 20:00. The regular expression would be <br /><b>[0-1][0-9]:[0-5][0-9]</b>
 			meaning more or less: start with 0 or 1 ([0-1]), followed by a number from 0 to 9, then the colon (:) followed by the minutes
 			as something in the range from 0 to 5 ([0-5]) followed by yet another number from 0 to 9.
 			<br />
@@ -90,7 +92,7 @@ And furthermore we change our regular expression slightly:
 instead of the <b>:</b> we use <b>.</b> as the 
 separator of hours and minutes. To use the <b>.</b> in a regular expression, it must have a <b>\</b> before it, because the dot is 
 a special character for regular expressions.<br />
-This brings us to <b>[0-1]\d\.[0-5]\d|2[0-3]\.[0-5]\d</b></p>
+This brings us to <b>(([0-1][0-9])|(2[0-3]))\.[0-5][0-9]</b></p>
 	<p>
 	<img src='/tds/img/ImagesHowTo/usingregexpfortimefield/urft01.jpg' border='0' class='photo' /><br />
 	Fig. 3: a different format, so we can compare
@@ -147,8 +149,7 @@ the last part explains a bit more about the script.</p>
 
 <h3>a closer look at the script</h3>
 <p>Here is the script:</p>
-<pre>
-&lt;script src="includes/jmesa/jquery.min.js"&gt;// for OC versions before 3.1.4, use jquery-1.3.2.min.js !&lt;/script&gt;
+<pre><code class="javascript">&lt;script src="includes/jmesa/jquery.min.js"&gt;&lt;/script&gt;
 &lt;script lang="Javascript"&gt;
 $.noConflict();
 jQuery(document).ready(function($){
@@ -183,8 +184,7 @@ jQuery(document).ready(function($){
 		calculateMinutes(fieldTimeField2, fieldMinutes2);
 	});
 });
-&lt;/script&gt;
-</pre>
+&lt;/script&gt;</code></pre>
 
 <p>Although it's lengthy, it's easy to follow. First fieldTimeField1 and fieldMinutes1 are identified. 
 Then the same is done for fieldTimeField2 and fieldMinutes2. <br />
@@ -197,7 +197,7 @@ and these are added: <b>calcMinutes = (60*hours)+(1*minutes)</b>.</p>
 
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#crfs'>here</a>.</p>
 
-<p class='pagereviewdate'>this page was last reviewed April 2014</p>
+<p class='pagereviewdate'>this page was last reviewed April 2019</p>
 
 </div>
 

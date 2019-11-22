@@ -46,14 +46,14 @@ non-profit academic edc" />
 you must instruct your users! The least they expect is a manual telling them how to login, how to add Subject, create Discrepancies, etc..
 And that's just the investigators: the monitors need instructions on how to SDV, follow up Discrepancies, etc.<br />
 Don't despair, we have two manuals for you: one for 
-<a href='/tds/CRFExamples/InvestigatorManual_20150413.pdf' target='_blank'>investigators</a>
- and one for <a href='/tds/CRFExamples/MonitorManual_20150413.pdf' target='_blank'>monitors</a>.</p>
+<a href='/tds/CRFExamples/InvestigatorManual_20190501.pdf' target='_blank'>investigators</a>
+ and one for <a href='/tds/CRFExamples/MonitorManual_20190501.pdf' target='_blank'>monitors</a>.</p>
  <p>They are lean and mean and surely you will want to write another version, tailored to your particular situation, 
  but this could be a starting point. (And if you don't have time to write them yourself, why not ask us?)</p>
 
 
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#crfs'>here</a>.</p>
-<p class='pagereviewdate'>this page was last reviewed April 2015</p>
+<p class='pagereviewdate'>this page was last reviewed May 2019</p>
     </div>
 
   </div> <!-- /.main -->
