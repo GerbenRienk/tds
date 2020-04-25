@@ -3,9 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="What we can do for you with OpenClinica, if you need datamanagement software 
+<meta name="description" content="What we can do for you with LibreClinica, if you need datamanagement software 
 for your clinical trial" /> 
-<meta name="keywords" content="openclinica training opensource software clinical trials datamanagement 
+<meta name="keywords" content="libreclinica training opensource software clinical trials datamanagement 
 non-profit academic edc ecrf Nederland Netherlands Holland Dataverzameling volgens de EU richtlijnen FDA 21CFR11" /> 
 <title>Trial Data Solutions</title>
 <link rel="stylesheet" type="text/css" media="screen, projection" href="css/screen.css" />
@@ -41,29 +41,31 @@ non-profit academic edc ecrf Nederland Netherlands Holland Dataverzameling volge
 			<div class="entry-body">
 				
 <p>Trial Data Solutions offers you all the support you need to get your clinical trial running, with safe datamanagement, as quickly as possible. 
-We work with OpenClinica and with Castor which are both widely used for academic and non-profit trials.</p>
+We work with LibreClinica, OpenClinica and with Castor which are all used for academic and non-profit trials.</p>
 <p>
-If you want to read more about OpenClinica, click <a href='/tds/aboutoc.jsp'>here</a> and likewise: 
+If you want to read more about LibreClinica, click <a href='/tds/aboutlc.jsp'>here</a>,
+if you want to read more about OpenClinica, click <a href='/tds/aboutoc.jsp'>here</a> and 
 if you want to read more about Castor, click <a href='/tds/aboutcastor.jsp'>here</a>. 
 </p>
 <p>Our activities include:<br />
 
-- <b>training</b> in OpenClinica or Castor of users re. studysetup, CRF-design, dataentry, dataquality control, dataextract, etc.<br />
-- <b>designing CRFs</b> in OpenClinica or Castor  for your study<br />
+- <b>training</b> in LibreClinica, OpenClinica or Castor of users re. studysetup, CRF-design, dataentry, dataquality control, dataextract, etc.<br />
+- <b>designing CRFs</b> in LibreClinica, OpenClinica or Castor  for your study<br />
 - (training in) writing <b>validations</b> <br />
 - coaching and advice by <b>Skype</b><br />
 - writing <b>utilities</b> for tailormade extra's<br />
-- <b>customizing</b> OpenClinica or Castor to the needs of your organisation<br />
+- <b>customizing</b> LibreClinica, OpenClinica or Castor to the needs of your organisation<br />
 
-- <b>installation</b> of OpenClinica on one of <b>your own systems</b> <br />
-- <b>installation</b> of OpenClinica on a <b>remote</b> server (hosting)<br />
+- <b>installation</b> of LibreClinica or OpenClinica on one of <b>your own systems</b> <br />
+- <b>installation</b> of LibreClinica orOpenClinica on a <b>remote</b> server (hosting)<br />
 - installation of Lindsay Stevens' <a href='https://github.com/lindsay-stevens/openclinica_sqldatamart' 
 target='_blank'><b>OpenClinica Community DataMart</b></a><br />
 
-- setting up <b>interfaces</b> between OpenClinica or Castor and other systems, using <b>web-services</b> <br />
-- setting up the infrastructure to collect data with <b>LimeSurvey</b> or off-line with <b>ODK</b> and importing them into OpenClinica or Castor<br />
+- setting up <b>interfaces</b> between LibreClinica, OpenClinica or Castor and other systems, using <b>web-services</b> <br />
+- setting up the infrastructure to collect data with <b>LimeSurvey</b> or off-line with <b>ODK</b> 
+and importing them into LibreClinica or OpenClinica<br />
 - preparing your data for <b>SPSS</b> or <b>SAS</b> <br />
-- setting up <b>LabKey</b> and importing data from OpenClinica or Castor into it
+- setting up <b>LabKey</b> and importing data from your edc into it
 </p>
 
 <p>Maybe what you are looking for is already documented on this site: have a look at the <a href='/tds/howto'>how-to-pages</a>.</p>

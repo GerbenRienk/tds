@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="How to's in OpenClinica" /> 
-<meta name="keywords" content="openclinica training open source software clinical trials datamanagement 
+<meta name="description" content="How to's in LibreClinica OpenClinica" /> 
+<meta name="keywords" content="libreclinica openclinica training open source software clinical trials datamanagement 
 non-profit academic edc free gratis database medisch onderzoek ecrf" /> 
 
-<title>TrialDataSolutions: how to's in OpenClinica</title>
+<title>TrialDataSolutions: how to's in LibreClinica / OpenClinica</title>
 <link rel="stylesheet" type="text/css" media="screen, projection" href="/tds/css/screen.css" />
 <script src="/tds/js/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -37,14 +37,14 @@ non-profit academic edc free gratis database medisch onderzoek ecrf" />
 	<div class="main">		
 		
 		<div class="entry group">
-<h3>How to's in OpenClinica</h3>
+<h3>How to's in LibreClinica / OpenClinica</h3>
 <div class="entry-body">
 <p>Here is a page with some <a href='/tds/CRFExamples'>examples of CRF's</a> and here is another one  
 with our <a href='/tds/howto/top5pages.jsp'>top 5 pages</a> of this section.</p>
-<p>We put some pages together to show you how easy it is to use OpenClinica. 
-Most OpenClinica-screens have extra descriptive messages on the left, under <b>"Instructions"</b>. 
-Some have links to extended help, indicated by a large questionmark.
-<img src='/tds/img/ImagesHowTo/BigQuestionMark.jpg' /> </p>
+<p>We put some pages together to show you how easy it is to use LibreClinica / OpenClinica. All information here was written for OpenClinica, but all of it can be used 
+in LibreClinica, as it is fully compatible.<br />
+(On <a href='diff_oc_lc.jsp'>this page</a> you can read more about the difference between OpenClinica and LibreClinica.)
+ </p>
 <p>Use the following links for a description of the basic functionality of 
 OpenClinica and some more advanced topics: </p>
 <a name='events' />

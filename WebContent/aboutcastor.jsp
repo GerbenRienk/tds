@@ -81,8 +81,11 @@ or if you want us to set this up for your trial.
 </p>
 
 <p class='question'>that sounds good, but: how much does it cost?</p>
-<p> To calculate the costs of your study, use their 
+<p>In 2019 Castor stopped with their one-price-for-all-policy, meaning that when you want to run a 
+"commercial" study, you must contact them and they will negotiate a price with you. If you have a "non-commercial" study
+ you can calculate the costs by using their 
 <a href='https://castoredc.com/pricing/' target='_blank'>online pricing tool</a>. 
+Prices have been varying (that's a nice word for "rising") over time, so be sure to check that page.
 </p>
 
 			</div>

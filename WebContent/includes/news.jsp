@@ -15,6 +15,13 @@
 
 <li>
 	<blockquote>
+		<p>libreclinica v.1 released</p>
+		<p class="author"><a href='/tds/newsall.jsp#N057' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		27-2-2020</p>
+	</blockquote>
+</li>
+<li>
+	<blockquote>
 		<p>defaults in a grid</p>
 		<p class="author"><a href='/tds/newsall.jsp#N056' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		9-2-2018</p>

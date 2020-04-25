@@ -13,10 +13,16 @@
     <loc>http://www.trialdatasolutions.com/tds/aboutcastor.jsp</loc>
 </url> 
 <url>
+    <loc>http://www.trialdatasolutions.com/tds/aboutlc.jsp</loc>
+</url> 
+<url>
     <loc>http://www.trialdatasolutions.com/tds/aboutoc.jsp</loc>
 </url> 
 <url>
     <loc>http://www.trialdatasolutions.com/tds/contact.jsp</loc>
+</url> 
+<url>
+    <loc>http://www.trialdatasolutions.com/tds/diff_oc_lc.jsp</loc>
 </url> 
 <url>
     <loc>http://www.trialdatasolutions.com/tds/index.jsp</loc>

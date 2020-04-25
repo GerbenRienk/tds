@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="our recent OpenClinica activities" /> 
-<meta name="keywords" content="openclinica training open source software clinical trials datamanagement 
+<meta name="description" content="our recent LibreClinica OpenClinica activities" /> 
+<meta name="keywords" content="libreclinica openclinica training open source software clinical trials datamanagement 
 non-profit academic edc" /> 
 
-<title>TDS: about what we have been doing lately with OpenClinica</title>
+<title>TDS: about what we have been doing lately with LibreClinica</title>
 <link rel="stylesheet" type="text/css" media="screen, projection" href="css/screen.css" />
 <script src="js/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -40,6 +40,12 @@ non-profit academic edc" />
 			<h3>News, or what have you done lately?</h3>
 			<div class="entry-body">
 
+<a name='N057'>&nbsp;</a>
+<p class='question'>LibreClinica v.1.0 released</p>
+<p>The release of LibreClinica is official! This is the successor of OpenClinica and on <a href='/tds/aboutlc.jsp'>this page</a> we explain 
+the why and the how of software and especially why we are so happy with it.</p>
+<p>(27-2-2020)</p>
+
 <a name='N056'>&nbsp;</a>
 <p class='question'>setting defaults using java-script</p>
 <p>On <a href='/tds/howto/defaultsjs.jsp'>this page</a> we explain how you can set defaults in your grid, or repeating-item-group. 
@@ -56,13 +62,6 @@ As an extra we also make the values read-only and set the width. And as a final 
 <p>On <a href='/tds/howto/testoc312.jsp'>this page</a> you can find instructions how to set up a test environment for OpenClinica 3.12, 
 a release definitely worth testing. We even made a <a href='https://youtu.be/poewFusx9JI' target='_blank'>video</a> about it!</p>
 <p>(10-10-2016)</p>
-
-<a name='N053'>&nbsp;</a>
-<p class='question'>a clickable Google map</p>
-<p>Using maps in OpenClinica is, as many other things, very easy. 
-On <a href='/tds/howto/googlemap.jsp'>this page</a> you can find an example plus some explaining of how things work,
-so you can tailor the map to your study-needs.</p>
-<p>(9-1-2016)</p>
 
 <a name='N052'>&nbsp;</a>
 <p class='question'>tomcat6 <span class='amp'>&amp;</span> 7</p>

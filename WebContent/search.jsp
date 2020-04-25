@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="description" content="introduction of the team of TrialDataSolutions, background" /> 
-<meta name="keywords" content="openclinica training open source software clinical trials datamanagement 
+<meta name="keywords" content="libreclinica openclinica training open source software clinical trials datamanagement 
 non-profit academic edc" /> 
 
 <title>Trial Data Solutions: search the site</title>
@@ -25,17 +25,8 @@ non-profit academic edc" />
 		<div class="entry group">
 			<h3>search the site with Google</h3>
 			<div class="entry-body">
-<div id="cse" style="width: 100%;">Loading</div>
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  //google.load('search', '1', {language : 'en', style : google.loader.themes.SHINY});
-  google.load('search', '1', {language : 'en'});
-  google.setOnLoadCallback(function() {
-    var customSearchControl = new google.search.CustomSearchControl('015900967467733253087:udmbiywh_i0');
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    customSearchControl.draw('cse');
-  }, true);
-</script>
+<script async src="https://cse.google.com/cse.js?cx=004918556041225916379:z3ljteqir41"></script>
+<div class="gcse-search"></div>
 
       			
 			
