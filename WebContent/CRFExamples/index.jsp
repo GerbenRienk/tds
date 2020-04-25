@@ -36,6 +36,12 @@ non-profit academic edc" />
 	<div class="main">		
 		
 		<div class="entry group">
+<h3>can I use this?</h3>
+<p>You may have landed on this page while searching for OpenClinica CRF's or for LibreClinica CRF's. Rest assured:
+LibreClinica is the successor of OpenClinica and all the examples presented here can be used in both OpenClinica and 
+LibreClinica.<br />
+On <a href='../diff_oc_lc.jsp'>this page</a> you can read more about the difference between OpenClinica and LibreClinica.</p>
+
 			<h3>Sample CRF's</h3>
 			
 			 
@@ -46,7 +52,7 @@ non-profit academic edc" />
 			 <a href='TDSRepeatingItems.xls' target='_blank'>here</a>.
 			</p>
 			
-			<p>Here are some other CRFs you can use to get started with OpenClinica. For more information about creating a new CRF or 
+			<p>Here are some other CRFs you can use to get started with LibreClinica. For more information about creating a new CRF or 
 			a new version of an existing CRF, see our <a href='/tds/howto'>how-to-pages</a>.</p>
 			
 <p><a href='SampleCRF31.xls'>SampleCRF.xls</a> shows where the different items on the XL-sheet show up in the CRF. 

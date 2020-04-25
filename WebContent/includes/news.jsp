@@ -36,13 +36,6 @@
 </li>
 <li>
 	<blockquote>
-		<p>a clickable Google map</p>
-		<p class="author"><a href='/tds/newsall.jsp#N053' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		9-1-2016</p>
-	</blockquote>
-</li>
-<li>
-	<blockquote>
 		<p>tomcat6 <span class='amp'>&amp;</span> 7</p>
 		<p class="author"><a href='/tds/newsall.jsp#N052' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		18-8-2015</p>
@@ -57,7 +50,7 @@
 </li>
 <li>
 	<blockquote>
-		<p>deselecting radio's in a group</p>
+		<p>de-selecting radio's in a group</p>
 		<p class="author"><a href='/tds/newsall.jsp#N049' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		9-12-2014</p>
 	</blockquote>

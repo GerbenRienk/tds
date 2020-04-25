@@ -1,7 +1,6 @@
-/* 
-Title:		Master styles for screen media
-Author: 	dan@simplebits.com
-*/
+:root {
+  --tds-h-color: rgb(173,36,43);
+}
 
 body {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, sans-serif;
@@ -36,11 +35,11 @@ a:link, a:visited {
 }
 .question {
 	margin: 0 0 0 0;
-	font-family: Georgia, serif;
+	/* font-family: Georgia, serif; */
 	font-weight: bold;
 	font-style: italic;
 	line-height: .1;
-	color: rgb(173,36,43);
+	color: var(--tds-h-color);
 	}
 .photo 
 	{
@@ -146,7 +145,7 @@ a:link, a:visited {
 	font-size: 2em;
 	/* width: 188px; */
 	height: 25px;
-	color: rgb(173,36,43);
+	color: var(--tds-h-color);
 	/* color: rgb(173,36,43); */
 	/* background: url(../img/tugboat-logo.gif) no-repeat top left; */
 	}
@@ -163,7 +162,7 @@ a:link, a:visited {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	/* color: #c1952d; */
-	color: rgb(173,36,43);
+	color: var(--tds-h-color);
 	}
 
 /* tugboat illustration */
@@ -371,7 +370,7 @@ ol.specials li div.special-img img {
 div.entry {
 	padding: 1em 0;
 	margin: 0 0 1em 0;
-	/* border-bottom: 1px solid rgb(209,176,99); */
+	
 	}
 div.last {
 	border-bottom: none;
@@ -382,15 +381,21 @@ div.entry h1 {
 	font-size: 1.8em;
 	font-weight: normal;
 	line-height: 1.3;
-	color: rgb(173,36,43);
+	color: var(--tds-h-color);
 	}
 div.entry h3 {
 	margin: 3px 0px 3px 0px;
-	font-family: Georgia, serif;
+	/* font-family: Georgia, serif; */	
 	font-size: 1.8em;
 	font-weight: normal;
 	line-height: 1.3;
-	color: rgb(173,36,43);
+	color: var(--tds-h-color);
+	}
+div.entry h4 {
+	font-size: 1.6em;
+	font-weight: normal;
+	line-height: 1.3;
+	color: var(--tds-h-color);
 	}
 div.entry p {
 	margin: 1em 0 1.5em 0;

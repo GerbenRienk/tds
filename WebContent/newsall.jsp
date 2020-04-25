@@ -57,12 +57,6 @@ As an extra we also make the values read-only and set the width. And as a final 
 <p>On <a href='/tds/howto/rownumber.jsp'>this page</a> we explain how you can get a row-number in your grid, or repeating-item-group. Simple, but effective.</p>
 <p>(9-1-2017)</p>
 
-<a name='N054'>&nbsp;</a>
-<p class='question'>installing OpenClinica 3.12 for testing</p>
-<p>On <a href='/tds/howto/testoc312.jsp'>this page</a> you can find instructions how to set up a test environment for OpenClinica 3.12, 
-a release definitely worth testing. We even made a <a href='https://youtu.be/poewFusx9JI' target='_blank'>video</a> about it!</p>
-<p>(10-10-2016)</p>
-
 <a name='N052'>&nbsp;</a>
 <p class='question'>tomcat6 <span class='amp'>&amp;</span> 7</p>
 <p>Sometimes you are running trials in older versions of OpenClinica and then a new trial must be 

@@ -46,7 +46,7 @@ in LibreClinica, as it is fully compatible.<br />
 (On <a href='diff_oc_lc.jsp'>this page</a> you can read more about the difference between OpenClinica and LibreClinica.)
  </p>
 <p>Use the following links for a description of the basic functionality of 
-OpenClinica and some more advanced topics: </p>
+LibreClinica / OpenClinica and some more advanced topics: </p>
 <a name='events' />
 
 			<h3>Events/Visits</h3>
@@ -80,17 +80,17 @@ OpenClinica and some more advanced topics: </p>
 			<li><a href='showhideitems.jsp'>showing or hiding items on a CRF, based on the input of another item </a> (SimpleConditionalDisplay)</li>
 			<li><a href='showhidemulti.jsp'>showing or hiding items on a CRF using a rule </a></li>
 			
-			<li><a href='defaultrepeatingitems.jsp'>setting defaults for repeating items using the insertaction </a></li>		
+			<li><a href='defaultrepeatingitems.jsp'>setting defaults for repeating items using the insert-action </a></li>		
 			
 			<li><a href='charcount.jsp'>displaying the number of characters left</a></li>
 			<li><a href='vas.jsp'>a visual analogue scale or VAS</a></li>
 			<li><a href='warning.jsp'>a warning in a CRF</a></li>
 			<li><a href='icd.jsp'>a link to the ICD10 site in a CRF</a></li>
-			<li><a href='deselectradio.jsp'>deselecting a radio-button</a></li>
+			<li><a href='deselectradio.jsp'>de-selecting a radio-button</a></li>
 			<li><a href='regexpforstudysubjectid.jsp'>a regular expression for the StudySubjectID</a></li>
 			<li><a href='eventdateincrf.jsp'>the Event-date in your CRF</a></li>
 			<li><a href='itemsfromotherevents.jsp'>using items from other Events</a></li>
-			<li><a href='rownumber.jsp'>an automatic rownumber in a repeating-item-group</a></li>
+			<li><a href='rownumber.jsp'>an automatic row-number in a repeating-item-group</a></li>
 <!-- 			
 			SPSS en checkbox utility
 			pagina over concat van twee items
@@ -181,8 +181,10 @@ pagina over users en roles uitbreiden met overzicht van Arithmos
 	<li><a href='spsscheckbox.jsp'>checkboxes and multi-selects in SPSS</a></li>
 	<li><a href='transformtosas.jsp'>getting the data into SAS</a></li>
 	<li><a href='selfsignedcertificate.jsp'>a self-signed certificate for tomcat</a></li>
+<!-- 
 	<li><a href='testoc36.jsp'>testing OpenClinica 3.12</a></li>
-	<li><a href='propertiesfiles.jsp'>properties-files, i18n and translating</a></li>
+ -->
+ 	<li><a href='propertiesfiles.jsp'>properties-files, i18n and translating</a></li>
 	<li><a href='backuprestore.jsp'>backup and restore of OpenClinca</a></li>
 	<li><a href='restartingtomcat.jsp'>restarting a completely stuck tomcat</a></li>
 	<li><a href='settingupatestenvironment.jsp'>setting up a test environment</a></li>
@@ -194,7 +196,7 @@ pagina over users en roles uitbreiden met overzicht van Arithmos
 	<li><a href='schemaspy.jsp'>SchemaSpy: a graphical representation of the database</a></li>
 	<li><a href='datalisting.jsp'>datalisting</a>, or making a paper printout of your data (MsAccess)</li>
 	<li><a href='manuals.jsp'>two manuals</a> for your end-users, if you're short of time</li>
-	<li>the <a href='/tds/workshop_javascript/index.jsp'>workshop java-script</a> as given on the OC15</li>
+	<li><a href='/tds/workshop_javascript/index.jsp'>workshop java-script</a></li>
 			
 <!-- 
 			<li><a href='.jsp'>logging OpenClinica and Tomcat</a>
@@ -217,9 +219,8 @@ pagina over users en roles uitbreiden met overzicht van Arithmos
 
  -->
 </ul>
-			
-			<p>A lot of the information here was also submitted to the <a href='http://en.wikibooks.org/wiki/OpenClinica_User_Manual'target='_blank'>
-			WikiBook OpenClinica User Manual</a>. </p>
+<p>A lot of the information here was also submitted to the <a href='http://en.wikibooks.org/wiki/OpenClinica_User_Manual'target='_blank'>
+WikiBook OpenClinica User Manual</a>. </p>
 
 			</div>
 		</div>
