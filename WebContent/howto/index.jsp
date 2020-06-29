@@ -181,9 +181,9 @@ pagina over users en roles uitbreiden met overzicht van Arithmos
 	<li><a href='spsscheckbox.jsp'>checkboxes and multi-selects in SPSS</a></li>
 	<li><a href='transformtosas.jsp'>getting the data into SAS</a></li>
 	<li><a href='selfsignedcertificate.jsp'>a self-signed certificate for tomcat</a></li>
-<!-- 
-	<li><a href='testoc36.jsp'>testing OpenClinica 3.12</a></li>
- -->
+ 
+	<li><a href='testoc312.jsp'>testing OpenClinica 3.12</a></li>
+
  	<li><a href='propertiesfiles.jsp'>properties-files, i18n and translating</a></li>
 	<li><a href='backuprestore.jsp'>backup and restore of OpenClinca</a></li>
 	<li><a href='restartingtomcat.jsp'>restarting a completely stuck tomcat</a></li>

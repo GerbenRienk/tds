@@ -58,21 +58,11 @@ As an extra we also make the values read-only and set the width. And as a final 
 <p>(9-1-2017)</p>
 
 <a name='N052'>&nbsp;</a>
-<p class='question'>tomcat6 <span class='amp'>&amp;</span> 7</p>
+<p class='question'>tomcat 6 <span class='amp'>&amp;</span> 7</p>
 <p>Sometimes you are running trials in older versions of OpenClinica and then a new trial must be 
 started. But this time you want to use the latest version of OpenClinica so this means you must
 install tomcat7. On <a href='/tds/howto/tomcat6and7.jsp'>this page</a> you can find instructions on how to do just that.</p>
 <p>(18-8-2015)</p>
-
-<a name='N051'>&nbsp;</a>
-<p class='question'>OC 3.6</p>
-<p>On <a href='/tds/howto/testoc36.jsp'>this page</a> you can find instructions on how to testdrive the new OpenClinica
-version 3.6. Testing it before you decide on installing or not is a good idea: if you're happy with how your OpenClinica is 
-performing right now and you have no 
-plans for a new Study in the near future, you may well decide to stay with your current release.
-On the other hand: if you're a heavy user of data-import via the web-service, go and upgrade.</p>
-<p>(1-8-2015)</p>
-
 
 <a name='N050'>&nbsp;</a>
 <p class='question'>workshop java-script</p>

@@ -7,7 +7,7 @@
 <meta name="keywords" content="openclinica training open source software clinical trials datamanagement 
 non-profit academic edc" /> 
 
-<title>Trial Data Solutions: a quick way to test OpenClinica 3.6</title>
+<title>Trial Data Solutions: a quick way to test OpenClinica 3.12</title>
 <link rel="stylesheet" type="text/css" media="screen, projection" href="/tds/css/screen.css" />
 <script src="/tds/js/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -37,6 +37,13 @@ non-profit academic edc" />
 	<div class="main">		
 		
 		<div class="entry group">
+<h3>before we start</h3>
+<p>This page was written in 2016 and since then the EDC-world has seen the first release of LibreClinica. We're very enthusiastic 
+about this successor of OpenClinica and we recommend it very much. If you want to know more about LibreClinic, you can start
+<a href='../aboutlc.jsp'>here</a>.  
+On <a href='../diff_oc_lc.jsp'>this page</a> you can read more about the difference between OpenClinica and LibreClinica.</p>
+
+
 <h3>a quick way to test OpenClinica 3.12</h3>
 			
 <p>OpenClinica 3.12 has been released and not much attention was given to it. Strange, because this release has at least one nice extra feature:
@@ -120,7 +127,7 @@ Do it for example as described <a href='/tds/howto/backuprestore.jsp'>here</a> a
  store the files on another server and a tape and burn them on CD. Well, you get the picture. </p>
 
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#other'>here</a>.</p>
-<p class='pagereviewdate'>this page was last reviewed October 2016</p>
+<p class='pagereviewdate'>this page was last reviewed June 2020</p>
 
 </div>
 
