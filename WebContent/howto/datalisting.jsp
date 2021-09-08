@@ -64,7 +64,7 @@ fig. 2: how to get the standard OC-reort
 			
 <h3>where do we start?</h3>
 <p>If you want to use the MsAccess-utility, you start with downloading the <a 
-href='/tds/CRFExamples/DataListing_oc312_20180324.zip' target='_blank'>
+href='/tds/CRFExamples/DataListing_oc314_20210908.zip' target='_blank'>
 datalisting</a>-file, unzipping it and opening the accdb-file.</p>
 <p>(The version above is for OC 3.2 and up. If you are looking for the old version of this utility, suitable for pre
  OC3.2, you can find it <a href='/tds/CRFExamples/DataListing_20120727.zip' target='_blank'>
@@ -104,8 +104,8 @@ fig. 4: output to csv for one Subject
 <img src='/tds/img/ImagesHowTo/datalisting/dt04.jpg' class='photo'/><br />   
 fig. 5: Subject F3012 in Excel
 </p>
-<h3>hold on, there's two more tabs</h3>
-<p>Yes, there are two more tabs in the utility: one that gives a list of the CRF's per Event and 
+<h3>hold on, there's three more tabs</h3>
+<p>Yes, there are three more tabs in the utility: one that gives a list of the CRF's per Event and 
  a sort of annotated CRF. And again: it is a <b>sort of</b> annotated CRF.</p>
 <p>
 <img src='/tds/img/ImagesHowTo/datalisting/dt06.jpg' class='photo'/><br />   
@@ -113,7 +113,7 @@ fig. 6: CRF characteristics
 </p>
 
 <h3>RBM or just clever monitoring</h3>
-<p>The last tab, <b>audit data</b> gives you information about who did what. That sounds like a detective, 
+<p>The one-but-last tab, <b>audit data</b> gives you information about who did what. That sounds like a detective, 
 but in fact you can use it in your monitoring process. For example, you are doing partial SourceDataVerification
 and based on that you see that one of the dataentry-persons makes more errors than the rest. In that 
 case it makes sense to have a list of all the data that person has touched. That sounds like 
@@ -126,7 +126,7 @@ fig. 7: what did Joe do?
 </p>
 <p>For this page we had lots of input, including code, from Krister Kristianson and Lindsay Stevens: many thanks!</p>
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#other'>here</a>.</p>
-<p class='pagereviewdate'>this page was last reviewed March 2018</p>
+<p class='pagereviewdate'>this page was last reviewed September 2021</p>
 
 
 		</div>
