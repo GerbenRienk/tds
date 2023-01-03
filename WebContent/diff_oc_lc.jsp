@@ -55,10 +55,11 @@ First of all it means that you can use the latest version for your operating sys
 <h3>so my it-team is happy; who else?</h3>
 <p>Not only the server-team will be pleased with LibreClinica, but also your programmer. We hope to give her an opportunity to
 contribute to the code, using the normal github-way-of-working. And we are convinced that there are many programmers willing and 
-able to contribute, so the real change has just begun.
-</p>
+able to contribute, so the real change has just begun.<br />
+Equally important: your security officer could be happy with LibreClinica, because starting from version 1.2 it has the option to use 
+two-factor-authentication.</p>
 <br />
-<br />
+<p class='pagereviewdate'>this page was last reviewed January 2023</p>
 </div><!-- /entry -->
 </div> <!-- /main -->
 <hr />

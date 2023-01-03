@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -39,6 +38,12 @@ non-profit academic edc" />
 		<div class="entry group">
 			<h3>News, or what have you done lately?</h3>
 			<div class="entry-body">
+
+<a name='N057'>&nbsp;</a>
+<p class='question'>LibreClinica v.1.2.1 released</p>
+<p>Yet another release of LibreClinica. And with new features, like two-factor-authentication. We will write some nice how-to-pages about 
+it in the near future.</p>
+<p>(11-11-2022)</p>
 
 <a name='N057'>&nbsp;</a>
 <p class='question'>LibreClinica v.1.0 released</p>

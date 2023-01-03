@@ -43,27 +43,25 @@ non-profit academic edc ecrf Nederland Netherlands Holland Dataverzameling volge
 <p>Trial Data Solutions offers you all the support you need to get your clinical trial running, with safe datamanagement, as quickly as possible. 
 We work with LibreClinica, OpenClinica and with Castor which are all used for academic and non-profit trials.</p>
 <p>
-If you want to read more about LibreClinica, click <a href='/tds/aboutlc.jsp'>here</a>,
-if you want to read more about OpenClinica, click <a href='/tds/aboutoc.jsp'>here</a> and 
-if you want to read more about Castor, click <a href='/tds/aboutcastor.jsp'>here</a>. 
+If you want to read more about LibreClinica, click <a href='/tds/aboutlc.jsp'>here</a>. 
 </p>
 <p>Our activities include:<br />
 
-- <b>training</b> in LibreClinica, OpenClinica or Castor of users re. studysetup, CRF-design, dataentry, dataquality control, dataextract, etc.<br />
-- <b>designing CRFs</b> in LibreClinica, OpenClinica or Castor  for your study<br />
+- <b>training</b> in LibreClinica or Castor of users re. studysetup, CRF-design, dataentry, dataquality control, dataextract, etc.<br />
+- <b>designing CRFs</b> in LibreClinica or Castor for your study<br />
 - (training in) writing <b>validations</b> <br />
-- coaching and advice by <b>Skype</b><br />
+- coaching and advice by <b>Skype/Teams/Jitsi/etc.</b><br />
 - writing <b>utilities</b> for tailormade extra's<br />
-- <b>customizing</b> LibreClinica, OpenClinica or Castor to the needs of your organisation<br />
+- <b>customizing</b> LibreClinica to the needs of your organisation<br />
 
-- <b>installation</b> of LibreClinica or OpenClinica on one of <b>your own systems</b> <br />
-- <b>installation</b> of LibreClinica orOpenClinica on a <b>remote</b> server (hosting)<br />
+- <b>installation</b> of LibreClinica on one of <b>your own systems</b> <br />
+- <b>installation</b> of LibreClinica on a <b>remote</b> server (hosting), like AWS, Azure, GCS, etc.<br />
 - installation of Lindsay Stevens' <a href='https://github.com/lindsay-stevens/openclinica_sqldatamart' 
-target='_blank'><b>OpenClinica Community DataMart</b></a><br />
+target='_blank'><b>DataMart</b></a><br />
 
-- setting up <b>interfaces</b> between LibreClinica, OpenClinica or Castor and other systems, using <b>web-services</b> <br />
+- setting up <b>interfaces</b> between LibreClinica and other systems, using <b>web-services</b> <br />
 - setting up the infrastructure to collect data with <b>LimeSurvey</b> or off-line with <b>ODK</b> 
-and importing them into LibreClinica or OpenClinica<br />
+and importing them into LibreClinica<br />
 - preparing your data for <b>SPSS</b> or <b>SAS</b> <br />
 - setting up <b>LabKey</b> and importing data from your edc into it
 </p>

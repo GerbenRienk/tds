@@ -93,6 +93,6 @@ you position the mouse above the word <b>Instructions</b>.
 
 </div> <!-- /wrap -->
 
-<!-- c(~) -->
+
 </body>
 </html>

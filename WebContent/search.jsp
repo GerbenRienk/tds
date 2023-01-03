@@ -22,15 +22,15 @@ non-profit academic edc" />
 	
 	<div class="main">		
 		
-		<div class="entry group">
+		<div class="entry">
 			<h3>search the site with Google</h3>
-			<div class="entry-body">
-<script async src="https://cse.google.com/cse.js?cx=004918556041225916379:z3ljteqir41"></script>
-<div class="gcse-search"></div>
-
-      			
 			
-			</div>
+			
+<script async src="https://cse.google.com/cse.js?cx=004918556041225916379:z3ljteqir41"></script>
+
+<div class="gcse-search"></div>
+			
+			
 		</div>
 
 	</div> <!-- /.main -->

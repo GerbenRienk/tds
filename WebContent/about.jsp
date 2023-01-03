@@ -32,10 +32,8 @@ non-profit academic edc" />
 <%@ include file="/includes/headermenu.jsp" %>
 <hr />
 
-<div id="wrap" class="group">
-	
-	<div class="main">		
-		
+<div id="wrap">
+	<div class="main">			
 		<div class="entry group">
 			<h3>About us</h3>
 				
@@ -69,15 +67,17 @@ training in or installations of LibreClinica
 please send an e-mail to 
 <a href='mailto:info@trialdatasolutions.com'>info@trialdatasolutions.com</a>
 <br />
+
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 </p>
 
 			</div>
+<p class='pagereviewdate'>this page was last reviewed January 2023</p>
+<br />
+<br />
 		</div>
 
 	</div> <!-- /.main -->

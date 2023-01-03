@@ -42,7 +42,7 @@ non-profit academic edc ecrf Nederland Netherlands Holland" />
 			<div class="entry-body">
 				<p>If you have any questions about what's on this site, 
 				or if you would like to hire us for advice about, 
-				training in or installations of OpenClinica 
+				training in or installations of LibreClinica 
 				(or whatever else you can think of), 
 				please send an e-mail to 
 				<a href='mailto:info@trialdatasolutions.com'>info@trialdatasolutions.com</a>

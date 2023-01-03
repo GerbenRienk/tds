@@ -46,7 +46,7 @@ If you have a specific question or problem, <a href='mailto:info@trialdatasoluti
 <!-- 
 or have a look at the <a href='/tds/castorhowto/'>how-to-pages</a> --></p>
 
-<p>If you are not sure whether it is best to choose OpenClinica or Castor: <a href='mailto:info@trialdatasolutions.com'>contact</a> us so we can discuss
+<p>If you are not sure whether it is best to choose LibreClinica or Castor: <a href='mailto:info@trialdatasolutions.com'>contact</a> us so we can discuss
 your situation and find what's best suited for you. (And don't worry: we have no financial interests in either one of them.)</p>
 
 <p class='question'>what does it do?</p>
@@ -81,11 +81,7 @@ or if you want us to set this up for your trial.
 </p>
 
 <p class='question'>that sounds good, but: how much does it cost?</p>
-<p>In 2019 Castor stopped with their one-price-for-all-policy, meaning that when you want to run a 
-"commercial" study, you must contact them and they will negotiate a price with you. If you have a "non-commercial" study
- you can calculate the costs by using their 
-<a href='https://castoredc.com/pricing/' target='_blank'>online pricing tool</a>. 
-Prices have been varying (that's a nice word for "rising") over time, so be sure to check that page.
+<p>Prices have been varying (that's a nice word for "rising") over time, so we can't tell you much about that.
 </p>
 
 			</div>

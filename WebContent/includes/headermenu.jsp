@@ -7,7 +7,7 @@
 <ul class="group">
 	<li><a href="/tds">					<strong>Home 		<em>start <span class="amp">&amp;</span> main info&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></strong></a></li>
 	<li><a href="/tds/aboutlc.jsp">		<strong>LibreClinica	<em>libreclinica explained&nbsp;</em></strong></a></li>
-	<li><a href="/tds/aboutoc.jsp">		<strong>OpenClinica	<em>openclinica explained&nbsp;</em></strong></a></li>
+	
 	<li><a href="/tds/aboutcastor.jsp">	<strong>Castor  	<em>castor edc explained&nbsp;</em></strong></a></li>
 	<li><a href="/tds/howto/index.jsp">	<strong>How to's 	<em>how to's <span class="amp">&amp;</span> sample CRF's</em></strong></a></li>
 	<li class="last"><a href="/tds/about.jsp"><strong>About <em>about us <span class="amp">&amp;</span> contact;&nbsp;</em></strong></a></li>
