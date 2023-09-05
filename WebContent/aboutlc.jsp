@@ -24,7 +24,7 @@ non-profit academic edc ecrf Nederland Netherlands Holland" />
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<script src="/tds/js/ga.js" type="text/javascript"></script>
+
 </head>
 
 <body>
@@ -41,7 +41,9 @@ non-profit academic edc ecrf Nederland Netherlands Holland" />
 			<div class="entry-body">
 <p>This page is about <a href='https://libreclinica.org/' target='_blank'>LibreClinica</a>. If you're already familiar with the product and you're 
 interested in what Trial Data Solutions can do for you, go to the <a href='/tds/'>main page</a>.<br />
-On <a href='diff_oc_lc.jsp'>this page</a> you can read more about the difference between OpenClinica and LibreClinica.<br />
+
+If you landed on this page because you were looking for information about OpenClinica: on 
+<a href='diff_oc_lc.jsp'>this page</a> you can read more about the difference between OpenClinica and LibreClinica.<br />
 If you have a specific question or problem, <a href='mailto:info@trialdatasolutions.com'>contact</a> us or have a look at the <a href='/tds/howto/'>how-to-pages</a>.</p>
 
 

@@ -24,7 +24,7 @@ non-profit academic edc" />
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<script src="/tds/js/ga.js" type="text/javascript"></script>
+
 </head>
 
 <body>
@@ -50,7 +50,7 @@ web-sites using ASP, PHP or JSP and, last but not least, Oracle Clinical/RDC.<br
 Since some years the standards for datamanagement of these trials were raised and 
 not only for Phase I to IV trials: many scientific journals demand almost FDA's 21 CFR Part 11.
  Institutions that can afford it use for example Oracle Clinical for this. But for the rest of us there is 
- <a href='http://www.openclinica.com' target='_blank'>LibreClinica</a>: "the real open source electronic data capture (EDC) for clinical studies".<br /></p>
+ <a href='http://www.libreclinica.org' target='_blank'>LibreClinica</a>: "the real open source electronic data capture (EDC) for clinical studies".<br /></p>
  <p>Since 2010 we have have been using LibreClinica and it's ancestor, OpenClinica, in various situations for many different companies and institutions. 
  Our activities range from 
  designing <b>CRFs</b> to writing <b>Validations</b>, to <b>interfacing</b> with proprietary systems, to <b>importing</b> data, 
@@ -75,7 +75,7 @@ please send an e-mail to
 </p>
 
 			</div>
-<p class='pagereviewdate'>this page was last reviewed January 2023</p>
+<p class='pagereviewdate'>this page was last reviewed May 2023</p>
 <br />
 <br />
 		</div>

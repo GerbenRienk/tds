@@ -24,7 +24,7 @@ non-profit academic edc ecrf Nederland Netherlands Holland" />
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<script src="/tds/js/ga.js" type="text/javascript"></script>
+
 </head>
 
 <body>
@@ -43,11 +43,12 @@ non-profit academic edc ecrf Nederland Netherlands Holland" />
 interested in what Trial Data Solutions can do for you, go to the <a href='/tds/'>main page</a>.<br />
 If you have a specific question or problem, <a href='mailto:info@trialdatasolutions.com'>contact</a>
  us.
-<!-- 
-or have a look at the <a href='/tds/castorhowto/'>how-to-pages</a> --></p>
 
 <p>If you are not sure whether it is best to choose LibreClinica or Castor: <a href='mailto:info@trialdatasolutions.com'>contact</a> us so we can discuss
 your situation and find what's best suited for you. (And don't worry: we have no financial interests in either one of them.)</p>
+
+<p class='question'>what does it cost?</p>
+<p>This may seem a pretty harsh question to start with, but: Castor is a commercial company with commercial prices. Your company or institute mat have a site-license and that will give you a discount, but still you pay.</p>
 
 <p class='question'>what does it do?</p>
 <p>Castor is Software as a Service designed for data-management of clinical trials. It runs on servers maintained by Castor via the internet, 
@@ -80,9 +81,6 @@ Contact <a href='mailto:info@trialdatasolutions.com'>us</a> if you want advice o
 or if you want us to set this up for your trial. 
 </p>
 
-<p class='question'>that sounds good, but: how much does it cost?</p>
-<p>Prices have been varying (that's a nice word for "rising") over time, so we can't tell you much about that.
-</p>
 
 			</div>
 		</div>

@@ -24,7 +24,17 @@ non-profit academic edc ecrf Nederland Netherlands Holland" />
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<script src="/tds/js/ga.js" type="text/javascript"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RHHQ1M9CH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0RHHQ1M9CH');
+</script>
+
 </head>
 
 <body>
@@ -46,7 +56,7 @@ If you have a specific question or problem, <a href='mailto:info@trialdatasoluti
 <p class='question'>background</p>
 <p>OpenClinica was around 2002 the first organisation to release open-source software for electronic data capture, EDC. This was a tremendous opportunity for academic and non-profit organisations to improve the quality of their datamanagement.<br />
 Around 2015 OpenClinica 4 was released and this was "closed-source" software from the start. OpenClinica 3.x uses many libraries that are out-of-date and because of that a small group decided to to create a fork of the code and start 
-<a href='aboutlc.jsp'>LibreClinica</a>.</p>
+<a href='aboutlc.jsp'>LibreClinica</a>. In other words: OpenClinica is the ancestor of LibreClinica.</p>
 
 <p class='question'>I still have a 3.x version running: can you assist us with that?</p>
 <p>Clinical trials can be running for years, so there are numerous OpenClinica-installations out in the open that must be kept alive, until the last-patient-last-visit. If you need help with that, please 
@@ -54,6 +64,7 @@ contact <a href='mailto:info@trialdatasolutions.com'>us</a>.<br />
 And of course you can also ask us to migrate your OpenClinica-instance to LibreCLinica and be future-proof. 
 </p>
 			</div>
+<p class='pagereviewdate'>this page was last reviewed May 2023</p>
 		</div>
 
 	</div> <!-- /.main -->

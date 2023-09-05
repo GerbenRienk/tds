@@ -24,7 +24,7 @@ non-profit academic edc ecrf Nederland Netherlands Holland" />
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<script src="/tds/js/ga.js" type="text/javascript"></script>
+
 </head>
 
 <body>

@@ -10,7 +10,6 @@ non-profit academic edc" />
 <title>Trial Data Solutions: search the site</title>
 <link rel="stylesheet" type="text/css" media="screen, projection" href="css/screen.css" />
 <script src="js/jquery-1.2.6.min.js" type="text/javascript"></script>
-<script src="/tds/js/ga.js" type="text/javascript"></script>
 </head>
 
 <body>

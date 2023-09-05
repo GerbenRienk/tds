@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="OpenClinica: : how to create a new Event Definition" /> 
+<meta name="description" content="LibreClinica: : how to create a new Event Definition" /> 
 <meta name="keywords" content="openclinica training open source software clinical trials datamanagement 
 non-profit academic edc free gratis database medisch onderzoek ecrf Event Definition" /> 
 
-<title>Trial Data Solutions: how to create a new Event Definition for OpenClinica</title>
+<title>Trial Data Solutions: how to create a new Event Definition for LibreClinica</title>
 <link rel="stylesheet" type="text/css" media="screen, projection" href="/tds/css/screen.css" />
 <script src="/tds/js/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -24,7 +24,15 @@ non-profit academic edc free gratis database medisch onderzoek ecrf Event Defini
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<script src="/tds/js/ga.js" type="text/javascript"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RHHQ1M9CH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0RHHQ1M9CH');
+</script>
 </head>
 
 <body>
@@ -42,7 +50,7 @@ non-profit academic edc free gratis database medisch onderzoek ecrf Event Defini
 <p>An "Event" or "Study Event" or "Event Definition" (or sometimes "StudyEventDefinition") is more or less a visit in your study. Setting up an Event / visit
 is very easy and straightforward. In the process you can make several changes regarding the nature of the event, 
 but almost all of them can be changed in a later stage.<br />
-To add a new event to a study you must be logged in to OpenCLinica as studydirector. Click on "Tasks"-
+To add a new event to a study you must be logged in to LibreClinica as studydirector. Click on "Tasks"-
 "Study Setup"-"Build Study" (fig. 1).</p>
 <p>
 <img src='/tds/img/ImagesHowTo/TaskMenuBuildStudy.jpg' border='0'  class='photo'/><br />
@@ -64,7 +72,7 @@ fig. 3: Study Event Definition
 
 
 <h3>Naming your event</h3>
-<p>Every Event gets a unique OpenClinica-ID or OID. You can change the name of an Event at any time, but after
+<p>Every Event gets a unique LibreClinica-ID or OID. You can change the name of an Event at any time, but after
 creation, you can not change the OID of an Event. For example: you want to create two visits for your study
 but you are not certain how to name them, so you decide for the time being to call them <b>Visit1</b> and <b>Visit2</b>. 
 The OID's will be <b>SE_VISIT1</b> and <b>SE_VISIT2</b> (fig. 4). 
@@ -79,7 +87,7 @@ fig. 4: Event names and OID's
 </p>
 
 <h3>Scheduling and repeating</h3>
-<p>OpenClinica has three Types of Events / visits: <b>scheduled</b>, <b>unscheduled</b> and <b>common</b>. 
+<p>LibreClinica has three Types of Events / visits: <b>scheduled</b>, <b>unscheduled</b> and <b>common</b>. 
 For a detailed description see the text above the Edit screen: "A Scheduled event is one that is expected to occur for each subject as part of the ordinary progress of the study. 
 An Unscheduled event is not expected to occur, but may occur as circumstance dictates.
 Scheduled and unscheduled events typically occur at some particular time.
@@ -98,7 +106,10 @@ in your study visits.
 <p>This may all seem a bit confusing, but remember: everything about an Event can be changed at any time, except the OID.
 You can even change an Event from repeating to non-repeating. Even when there are subjects in your study
 with more than one occurrence of the Event, you still can change the Event from repeating to non-repeating.</p>
+
 <p>More how-to-pages can be found <a href='/tds/howto/index.jsp#events'>here</a>.</p>
+<p class='pagereviewdate'>this page was last reviewed September 2023</p>
+
 		</div>
 
 	</div> <!-- /.main -->
