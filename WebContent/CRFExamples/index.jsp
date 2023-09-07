@@ -24,15 +24,7 @@ non-profit academic edc" />
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RHHQ1M9CH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-0RHHQ1M9CH');
-</script>
 </head>
 
 <body>
@@ -65,13 +57,12 @@ On <a href='../diff_oc_lc.jsp'>this page</a> you can read more about the differe
 			a new version of an existing CRF, see our <a href='/tds/howto'>how-to-pages</a>.</p>
 			
 <p><a href='SampleCRF31.xls'>SampleCRF.xls</a> shows where the different items on the XL-sheet show up in the CRF. 
-(Click <a href='SampleCRF30.xls'>here</a> for OC 3.0.x format.)
+
 <img src='SampleCRF1.jpg' class='photo' />
 <img src='SampleCRF2.jpg' class='photo' />
 </p>
 
 <p><a href='SimpleCRFWithBMI31.xls'>SimpleCRFWithBMI.xls</a> is an example of a CRF with a calculated field.
-(Click <a href='SimpleCRFWithBMI30.xls'>here</a> for OC 3.0.x format.)
 <img src='SimpleCRFWithBMI.jpg' class='photo' />
 </p>
 
@@ -84,7 +75,7 @@ you position the mouse above the word <b>Instructions</b>.
 			
 
 <p><a href='CRFWithImage31.xls'>CRFWithImage.xls</a> is a CRF with an image plus link.
-(Click <a href='CRFWithImage30.xls'>here</a> for OC 3.0.x format.)
+
 <img src='CRFWithImage.jpg' class='photo' />
 </p>
 

@@ -41,10 +41,7 @@ non-profit academic edc free gratis database medisch onderzoek ecrf" />
 <div class="entry-body">
 <p>Here is a page with some <a href='/tds/CRFExamples'>examples of CRF's</a> and here is another one  
 with our <a href='/tds/howto/top5pages.jsp'>top 5 pages</a> of this section.</p>
-<p>We put some pages together to show you how easy it is to use LibreClinica. All information here was written for LibreClinica, but all of it can be used 
-in OpenClinica, as it is fully compatible.<br />
-(On <a href='diff_oc_lc.jsp'>this page</a> you can read more about the difference between OpenClinica and LibreClinica.)
- </p>
+<p>We put some pages together to show you how easy it is to use LibreClinica.  </p>
 <p>Use the following links for a description of the basic functionality of 
 LibreClinica and some more advanced topics: </p>
 <a name='events'></a>
@@ -99,7 +96,7 @@ LibreClinica and some more advanced topics: </p>
 			iets met StudyParameters
 			datum tussen twee visites en _CURRENT_DATE
 			iets met aggregate functies
-			iets over datainfo.properties o.a. de welkomtekst RSS
+			
 			regexp voor tijd met AM/PM
 			regexp voor datum validatie, bijv. voor 2010
 			
@@ -111,6 +108,7 @@ LibreClinica and some more advanced topics: </p>
 			iets over par en log-settings
 			
 			checkbox en SCD en DiscrAction
+			
 			video van user toekennen aan site
 			
 			data-wdsl en status:initial data entry

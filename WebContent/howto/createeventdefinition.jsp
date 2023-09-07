@@ -24,15 +24,7 @@ non-profit academic edc free gratis database medisch onderzoek ecrf Event Defini
 		$("ul.lst li:last, ul.press li:last").addClass("last");
 		});
 </script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RHHQ1M9CH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-0RHHQ1M9CH');
-</script>
 </head>
 
 <body>
@@ -72,7 +64,7 @@ fig. 3: Study Event Definition
 
 
 <h3>Naming your event</h3>
-<p>Every Event gets a unique LibreClinica-ID or OID. You can change the name of an Event at any time, but after
+<p>Every Event gets a unique OID. You can change the name of an Event at any time, but after
 creation, you can not change the OID of an Event. For example: you want to create two visits for your study
 but you are not certain how to name them, so you decide for the time being to call them <b>Visit1</b> and <b>Visit2</b>. 
 The OID's will be <b>SE_VISIT1</b> and <b>SE_VISIT2</b> (fig. 4). 
