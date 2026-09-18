@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="description" content="introduction of the team of TrialDataSolutions, background" /> 
-<meta name="keywords" content="openclinica training open source software clinical trials datamanagement 
+<meta name="keywords" content="openclinica libreclinica training open source software clinical trials datamanagement 
 non-profit academic edc" /> 
 
 <title>Trial Data Solutions: about us</title>
@@ -75,7 +75,7 @@ please send an e-mail to
 </p>
 
 			</div>
-<p class='pagereviewdate'>this page was last reviewed May 2023</p>
+<p class='pagereviewdate'>this page was last reviewed Jan 2026</p>
 <br />
 <br />
 		</div>
